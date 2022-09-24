@@ -1,2 +1,2 @@
-# beginner.py
-PYTHON BEGINNING
+;lk;k;
+'l'l'l
