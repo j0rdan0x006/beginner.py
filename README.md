@@ -1,5 +1,5 @@
 - What is Python3.0 and why we do programming?
-	
+	Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems. We need to be able to control the interaction between people and machines. Since computers and machines are able to do things so efficiently and accurately, we use computer programming to harness that computing power.
 - Why Python is leading edge?
 	Python is an open-source, high-level, and interpreted programming language used to develop some of the world largest site. Due to the availability of several libraries and tools, this language has become the number one choice of many data scientist and developers.
 - Whats the major difference between Python2.x and 3.x ?
